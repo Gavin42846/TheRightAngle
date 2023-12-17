@@ -1,8 +1,1 @@
-# Partitio Project
- Game for Game Group 2
-
-
-# About
-This is the repo for the files used in group Partitio's game
-
-# Controls
+This was a game I made in a group in college for a game design class, I assisted in concept design and level design. We used Godot as our engine.
